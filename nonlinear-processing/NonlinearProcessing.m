@@ -1,5 +1,3 @@
-%% double() 대신에 im2double() 사용하기.. double()하면 이상하게됨.
-
 %% Histogram Equalization (head.gif)
 
 clear all;

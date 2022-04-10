@@ -1,5 +1,3 @@
-%% double() 대신에 im2double() 사용하기.. double()하면 이상하게됨.
-
 %% Image interpolation by Nyquist filter and comparison with Bicubic interpolation
 
 clear all;

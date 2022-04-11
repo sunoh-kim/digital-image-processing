@@ -28,7 +28,7 @@ A Weighted Least Squares (WLS) filter is a well-known edge preserving smoothing 
 For image interpolation, I used Nyquist Filter Design in MATLAB.
 
 ### Wavelet Filter:
-A Wavelet filter decomposes the signal using the DWT, filter the signal in the wavelet space using thresholding, and invert the filtered signal to reconstruct the original signal. I used it for denoising.
+A Wavelet filter decomposes the signal using the DWT, filters the signal in the wavelet space using thresholding, and inverts the filtered signal to reconstruct the original signal. I used it for denoising.
 
 ### JPEG Compression:
 For JPEG Compression, I used Discrete Cosine Transformation (DCT). The DCT expresses a finite sequence of data points in terms of a sum of cosine functions oscillating at different frequencies.
